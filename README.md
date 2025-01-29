@@ -46,11 +46,17 @@ A bar chart breaking down churn rates by customer demographics, including groups
 - Seniors
 - Other age groups
 
-#### **Competitor Analysis Churn Rate**: A pie chart displaying the churn rate percentage across different competitors, with reasons for churn associated with each competitor.
+#### **Competitor Analysis Churn Rate**: 
 
-#### **Age Group Churn Analysis**: A detailed analysis of the number of customers churning within different age groups.
+A pie chart displaying the churn rate percentage across different competitors, with reasons for churn associated with each competitor.
 
-#### **Internet GB Consumption and Plan Type Analysis**: A combination of bar charts showing churn rate percentages across different internet usage groups (e.g., 10+ GB, 6–10 GB, less than 5 GB) with additional breakdowns based on whether customers have an international plan or not.
+#### **Age Group Churn Analysis**: 
+
+A detailed analysis of the number of customers churning within different age groups.
+
+#### **Internet GB Consumption and Plan Type Analysis**: 
+
+A combination of bar charts showing churn rate percentages across different internet usage groups (e.g., 10+ GB, 6–10 GB, less than 5 GB) with additional breakdowns based on whether customers have an international plan or not.
 
 #### **Dashboard Creation**:
 
@@ -58,21 +64,24 @@ I consolidated these visualizations into a dynamic Excel dashboard to allow for 
 
 ## **Results**
 
-The analysis revealed several important insights:
+#### **The analysis revealed several important insights**:
 
-Churn Reasons:
+#### **Churn Reasons**:
 
 The main reasons for customer churn were related to pricing, customer service issues, and competition from other telecom providers.
 The churn rate for each reason was visualized in a bar chart, showing which issues had the greatest impact on retention.
-Demographic Churn:
+
+#### **Demographic Churn**:
 
 Customers under 30 had a higher churn rate compared to other demographic groups, while seniors exhibited a lower churn rate.
 This demographic breakdown was visualized in a bar chart, allowing for clear comparisons between groups.
-Competitor Analysis:
+
+#### **Competitor Analysis**:
 
 A pie chart showed the churn rate percentages for customers who switched to different telecom competitors.
 Reasons for churn varied across competitors, but service reliability and pricing were consistent drivers of switching.
-Age Group Churn:
+
+#### **Age Group Churn**:
 
 Churn was significantly higher among customers aged 18-30, with the numbers tapering off as age increased.
 This insight could help target retention strategies more effectively, especially for younger demographics.
@@ -85,8 +94,8 @@ Churn rates were also broken down by whether customers had an international plan
 
 This analysis provides valuable insights into customer churn patterns and highlights several key areas that Databel can focus on to improve customer retention:
 
-Targeting younger customers (under 30) with special offers or better service plans could help reduce churn in this group.
-Improving customer service and addressing common reasons for churn (e.g., pricing concerns) could significantly lower churn rates.
-Focusing on high-usage customers (those consuming 10+ GB) by providing them with more tailored plans or incentives could help retain this high-value customer segment.
-International plan offerings: Offering more appealing international plans might help reduce churn among customers who are likely to switch for better global coverage.
-The interactive dashboard and visualizations created using Excel provide clear, actionable insights for decision-makers to reduce churn and increase customer retention.
+- Targeting younger customers (under 30) with special offers or better service plans could help reduce churn in this group.
+- Improving customer service and addressing common reasons for churn (e.g., pricing concerns) could significantly lower churn rates.
+- Focusing on high-usage customers (those consuming 10+ GB) by providing them with more tailored plans or incentives could help retain this high-value customer segment.
+- International plan offerings: Offering more appealing international plans might help reduce churn among customers who are likely to switch for better global coverage.
+- The interactive dashboard and visualizations created using Excel provide clear, actionable insights for decision-makers to reduce churn and increase customer retention.
