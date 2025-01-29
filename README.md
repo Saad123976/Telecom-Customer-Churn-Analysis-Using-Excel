@@ -10,26 +10,37 @@ Through various Excel techniques, including calculated fields, PivotTables, and 
 
 The analysis followed these steps:
 
-Data Cleaning and Preprocessing:
+### **Data Cleaning and Preprocessing**:
 
-Cleaned and preprocessed the raw dataset, ensuring that all columns and values were properly formatted.
-Checked for missing data and inconsistencies, removing or correcting any errors.
-Calculated Metrics:
+- Cleaned and preprocessed the raw dataset, ensuring that all columns and values were properly formatted.
 
-Total Number of Customers: Calculated the total customer count.
-Churn Rate (%): Calculated the percentage of customers who churned relative to the total number of customers.
-Churned Customers: Identified and quantified the number of customers who left the service.
-Visualizations Created: I built the following key visualizations to analyze the churn data:
+- Checked for missing data and inconsistencies, removing or correcting any errors.
 
-Churn Reasons Bar Chart: A bar chart showing the different reasons for churn, with corresponding churn rates for each reason.
-Churn Rate by Demographics: A bar chart breaking down churn rates by customer demographics, including groups such as:
+### **Calculated Metrics**:
+
+#### **Total Number of Customers**: Calculated the total customer count.
+
+#### **Churn Rate (%)**: Calculated the percentage of customers who churned relative to the total number of customers.
+
+#### **Churned Customers**: Identified and quantified the number of customers who left the service.
+
+#### **Visualizations Created**: I built the following key visualizations to analyze the churn data:
+
+#### **Churn Reasons Bar Chart**: A bar chart showing the different reasons for churn, with corresponding churn rates for each reason.
+
+#### **Churn Rate by Demographics**: A bar chart breaking down churn rates by customer demographics, including groups such as:
+
 Under 30
 Seniors
 Other age groups
-Competitor Analysis Churn Rate: A pie chart displaying the churn rate percentage across different competitors, with reasons for churn associated with each competitor.
-Age Group Churn Analysis: A detailed analysis of the number of customers churning within different age groups.
-Internet GB Consumption and Plan Type Analysis: A combination of bar charts showing churn rate percentages across different internet usage groups (e.g., 10+ GB, 6–10 GB, less than 5 GB) with additional breakdowns based on whether customers have an international plan or not.
-Dashboard Creation:
+
+#### **Competitor Analysis Churn Rate**: A pie chart displaying the churn rate percentage across different competitors, with reasons for churn associated with each competitor.
+
+#### **Age Group Churn Analysis**: A detailed analysis of the number of customers churning within different age groups.
+
+#### **Internet GB Consumption and Plan Type Analysis**: A combination of bar charts showing churn rate percentages across different internet usage groups (e.g., 10+ GB, 6–10 GB, less than 5 GB) with additional breakdowns based on whether customers have an international plan or not.
+
+#### **Dashboard Creation**:
 
 I consolidated these visualizations into a dynamic Excel dashboard to allow for easy exploration and presentation of churn-related insights.
 
