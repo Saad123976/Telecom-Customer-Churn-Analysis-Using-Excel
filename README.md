@@ -18,21 +18,33 @@ The analysis followed these steps:
 
 ### **Calculated Metrics**:
 
-#### **Total Number of Customers**: Calculated the total customer count.
+#### **Total Number of Customers**: 
 
-#### **Churn Rate (%)**: Calculated the percentage of customers who churned relative to the total number of customers.
+Calculated the total customer count.
 
-#### **Churned Customers**: Identified and quantified the number of customers who left the service.
+#### **Churn Rate (%)**: 
 
-#### **Visualizations Created**: I built the following key visualizations to analyze the churn data:
+Calculated the percentage of customers who churned relative to the total number of customers.
 
-#### **Churn Reasons Bar Chart**: A bar chart showing the different reasons for churn, with corresponding churn rates for each reason.
+#### **Churned Customers**: 
 
-#### **Churn Rate by Demographics**: A bar chart breaking down churn rates by customer demographics, including groups such as:
+Identified and quantified the number of customers who left the service.
 
-Under 30
-Seniors
-Other age groups
+#### **Visualizations Created**: 
+
+I built the following key visualizations to analyze the churn data:
+
+#### **Churn Reasons Bar Chart**: 
+
+A bar chart showing the different reasons for churn, with corresponding churn rates for each reason.
+
+#### **Churn Rate by Demographics**: 
+
+A bar chart breaking down churn rates by customer demographics, including groups such as:
+
+ - Under 30
+- Seniors
+- Other age groups
 
 #### **Competitor Analysis Churn Rate**: A pie chart displaying the churn rate percentage across different competitors, with reasons for churn associated with each competitor.
 
