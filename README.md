@@ -62,6 +62,9 @@ A combination of bar charts showing churn rate percentages across different inte
 
 I consolidated these visualizations into a dynamic Excel dashboard to allow for easy exploration and presentation of churn-related insights.
 
+![Dashboard](https://github.com/user-attachments/assets/9c7af692-dbd1-4ea5-86c3-020233b5cdca)
+
+
 ## **Results**
 
 #### **The analysis revealed several important insights**:
